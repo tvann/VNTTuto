@@ -14,7 +14,7 @@ public class TomtomImpl {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.printd("Hello! My friends Lololo.");
+		System.out.println("Hello! My friends Lololo.");
 
 	}
 
